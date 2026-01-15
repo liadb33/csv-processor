@@ -1,6 +1,6 @@
 # 🚀 Real-Time CSV Processing System
 
-A production-ready, full-stack web application for asynchronous CSV file processing with **live progress updates**. Upload CSV files containing customer data and watch as they're processed in real-time—no page refresh required.
+full-stack web application for asynchronous CSV file processing with **live progress updates**. Upload CSV files containing customer data and watch as they're processed in real-time.
 
 ![Node.js](https://img.shields.io/badge/Node.js-v18+-339933?logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)
