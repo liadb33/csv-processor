@@ -49,7 +49,6 @@ async function start() {
       console.log("CSV Processing System - Backend");
       console.log("=================================");
       console.log(`🚀 Server: http://localhost:${PORT}`);
-      console.log(`📊 Environment: ${process.env.NODE_ENV || "development"}`);
       console.log(`🔌 Socket.IO: Ready`);
       console.log(`💾 Database: MongoDB`);
       console.log("=================================");
