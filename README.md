@@ -10,6 +10,8 @@ full-stack web application for asynchronous CSV file processing with **live prog
 
 ---
 
+<img width="2535" height="1346" alt="Image" src="https://github.com/user-attachments/assets/ce0a4053-84e6-4274-b4d3-eb3979822bde" />
+
 ## ✨ Key Features
 
 - ✅ **Asynchronous Processing** — Upload returns immediately; processing happens in the background
@@ -89,8 +91,8 @@ docker --version  # Should be v20+
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/liadb33/csv-processing-system.git
-cd csv-processing-system
+git clone https://github.com/liadb33/csv-processor.git
+cd csv-processor
 ```
 ---
 
